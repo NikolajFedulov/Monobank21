@@ -1,2 +1,4 @@
 # Project exclude paths
 /out/
+/.idea/
+/Monobank 2.1.iml
